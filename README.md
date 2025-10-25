@@ -165,5 +165,5 @@ O bot **só aceitará comandos vindos dos grupos configurados no `.env`**.
 ## 💬 Créditos
 
 Desenvolvido por **[Seu Nome]**  
-PUC Minas — Sistemas de Informação  
+PUC Minas — Sistemas de Informação   
 Trabalho Interdisciplinar de **Sistemas Integrados de Gestão Empresarial**
