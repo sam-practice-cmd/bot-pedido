@@ -152,12 +152,7 @@ O bot **só aceitará comandos vindos dos grupos configurados no `.env`**.
 📂 bot-restaurante/
  ┣ 📜 bot.py
  ┣ 📜 .env.example
- ┣ 📜 requirements.txt
- ┣ 📂 src/
- ┃ ┣ 📜 handlers.py
- ┃ ┣ 📜 services.py
- ┃ ┗ 📜 utils.py
- ┗ 📂 logs/
+ ┗ 📜 requirements.txt
 ```
 
 ---
